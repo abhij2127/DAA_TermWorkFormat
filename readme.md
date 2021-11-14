@@ -1,5 +1,6 @@
-#Lab Files
-##PCS - 505
+Lab Files
+
+PCS - 505
 Design and Analysis of algorithms lab
 
 1. Prepare your lab files according to the lab manual shared above. The manual consists of 3 programs of each week from week 1 - week 10.
